@@ -13,8 +13,8 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "shun zuo"
 description              : &description "personal description"
-url                      : "https://shunzuo-ai.github.io"
-baseurl                  : "https://shunzuo-ai.github.io/" # the subpath of your site, e.g. "/blog"
+url                      : https://shunzuo-ai.github.io/
+baseurl                  : "https://shunzuo-ai.github.io/" 
 repository               : "https://shunzuo-ai.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
